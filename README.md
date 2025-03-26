@@ -33,7 +33,7 @@ This project is a classic Arkanoid game written in Python using the Tkinter libr
 - The goal is to bounce the ball and break all the bricks.  
 
 ## Screenshots  
-_(Add screenshots of the game here, if available)_  
+![image](https://github.com/user-attachments/assets/fc7e6691-3716-4f78-84e6-6aff518a905c)
 
 ## Future Improvements  
 - Adding difficulty levels  
