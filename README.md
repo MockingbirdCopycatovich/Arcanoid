@@ -25,7 +25,7 @@ This project is a classic Arkanoid game written in Python using the Tkinter libr
    ```  
 3. Run the game:  
    ```
-   python arkanoid.py
+   python Arkanoid.py
    ```  
 
 ## Controls  
