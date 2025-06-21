@@ -17,7 +17,7 @@ This project is a classic Arkanoid game written in Python using the Tkinter libr
 ### How to run:  
 1. Clone the repository:  
    ```
-   git clone https://github.com/yourusername/arkanoid.git
+   git clone https://github.com/MockingbirdCopycatovich/Arcanoid.git
    ```  
 2. Navigate to the project folder:  
    ```
